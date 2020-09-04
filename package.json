@@ -13,7 +13,7 @@
     "element-ui": "^2.8.2",
     "js-md5": "^0.7.3",
     "moment": "^2.24.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "request-promise": "^4.2.4",
     "vue": "^2.5.2",
     "vue-py": "0.0.4",
